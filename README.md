@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!--
-**splaisan/splaisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ few facts about me 
 
-Here are some ideas to get you started:
-
+- ✨ I was trained as a molecular biologist during 15y wet lab and turned into data analyst and trainer
 - 🔭 I’m currently working on biological data obtained in our sequencing facility
 - 🌱 I’m currently learning every day a little bit more about biology and biocomputing
 - 👯 I’m looking to collaborate on training and data analysis techniques to make science advance
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: stephane.plaisance@vib.be
 - 😄 Pronouns: vee-eye-bee
 - ⚡ Fun fact: Stephane is a boy's name and so am I
--->
+
